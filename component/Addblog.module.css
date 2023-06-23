@@ -1,0 +1,62 @@
+.main {
+
+    margin: auto;
+    padding-top: 100px;
+
+}
+
+.lab {
+    margin-left: 30%;
+
+}
+
+
+
+.l1 {
+    padding-right: 30%;
+    margin-left: 30%;
+
+}
+
+.l2 {
+    margin-left: 30%;
+
+}
+
+
+
+input {
+    width: 30%;
+    height: 30px;
+
+    margin-left: 30%;
+}
+
+.sele {
+    width: 10%;
+    height: 30px;
+    margin-left: 30%;
+}
+
+textarea {
+    width: 30%;
+    height: 80px;
+    margin-left: 30%;
+
+}
+
+
+
+.sub {
+    margin-top: 20px;
+    margin-left: 30%;
+    background-color: black;
+    color: antiquewhite;
+    padding: 10px 20px;
+    border: none;
+}
+
+.sub:hover {
+    background-color: rgb(67, 67, 67);
+    border-radius: 3px;
+}
